@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShailinXia&layout=compact&theme=tokyonight)
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=ShailinXia&show_icons=true&theme=transparent)
+![Shailin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shailinxia&show_icons=true&theme=tokyonight)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/ShailinXia/count.svg) visitor,Thank You! :kissing_heart::kissing_heart:
 
@@ -28,7 +28,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ShailinXia/count.s
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShailinXia&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailinxia&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=ShailinXia&theme=dracula)
 
