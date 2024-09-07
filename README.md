@@ -1,5 +1,9 @@
-## Hi there I'm Shailin.👋
+## Hi everyone👋
+## This is Shailin's programming world :earth_americas:
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ShailinXia)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shailinxia666@gmail.com)
 
+Welcome to my Github page! I am Shailin and I am currently finishing my Information and Communication Engineering Master degree at the Chang'an University, Xi'an, China!  
 <!--
 **ShailinXia/ShailinXia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
