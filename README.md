@@ -3,7 +3,9 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ShailinXia)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shailinxia666@gmail.com)
 
-Welcome to my Github page! I am Shailin and I am currently finishing my Information and Communication Engineering Master degree at the Chang'an University, Xi'an, China!  
+<img src="cover_image.jpg" />
+
+Welcome to my Github page! I'm currently finishing my Information and Communication Engineering Master degree at the Chang'an University, Xi'an, China!  
 
 <!--
 <img align="right" alt="img" src="cover_image.jpg" width="40%" height="auto" />
