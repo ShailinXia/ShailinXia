@@ -15,15 +15,11 @@ Welcome to my Github page! I am Shailin and I am currently finishing my Informat
   [MSNet: Multi-Scale Network for Object Detection in Remote Sensing Images](https://github.com/ShailinXia/MSNet) 🚀 *coming soon*
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2045%20mins-blue)
 
----
+![Profile Views](http://img.shields.io/badge/Profile%20Views-271-blue)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2045%20mins-pink) 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-200-green) 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.5%20thousand%20lines%20of%20code-gold)
-
----
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -40,21 +36,21 @@ Welcome to my Github page! I am Shailin and I am currently finishing my Informat
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12 commits          █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-🌆 Daytime                26 commits          ██████████░░░░░░░░░░░░░░░   41.27 % 
-🌃 Evening                24 commits          ██████████░░░░░░░░░░░░░░░   38.10 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+🌞 Morning                12 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+🌆 Daytime                30 commits          ███████████░░░░░░░░░░░░░░   44.78 % 
+🌃 Evening                24 commits          █████████░░░░░░░░░░░░░░░░   35.82 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Thursday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Friday                   14 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Saturday                 24 commits          ██████████░░░░░░░░░░░░░░░   38.10 % 
-Sunday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Wednesday                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Thursday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Friday                   14 commits          █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Saturday                 28 commits          ██████████░░░░░░░░░░░░░░░   41.79 % 
+Sunday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 ```
 
 
@@ -89,7 +85,6 @@ Java                     1 repo              ██████░░░░░�
 
 
 
- Last Updated on 07/09/2024 07:34:49 UTC
 <!--END_SECTION:waka-->
 
 #### :computer: Programming tools and Experiences:
