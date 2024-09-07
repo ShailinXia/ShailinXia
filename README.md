@@ -15,6 +15,76 @@ Welcome to my Github page! I am Shailin and I am currently finishing my Informat
   [MSNet: Multi-Scale Network for Object Detection in Remote Sensing Images](https://github.com/ShailinXia/MSNet) 🚀 *coming soon*
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2045%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-157-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 20 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                12 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+🌆 Daytime                23 commits          ██████████░░░░░░░░░░░░░░░   38.33 % 
+🌃 Evening                24 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Thursday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Friday                   14 commits          ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+Saturday                 21 commits          █████████░░░░░░░░░░░░░░░░   35.00 % 
+Sunday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 4 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   38.67 % 
+TeX                      3 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.72 % 
+Python                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+textmate                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+GitIgnore file           27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+
+🔥 Editors: 
+PyCharm                  5 hrs 54 mins       █████████████░░░░░░░░░░░░   51.86 % 
+VS Code                  5 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.14 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+TeX                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Java                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ShailinXia/ShailinXia/main/assets/bar_graph.png)
+
+
+ Last Updated on 07/09/2024 07:16:40 UTC
 <!--END_SECTION:waka-->
 
 #### :computer: Programming languages and tools:
