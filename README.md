@@ -14,6 +14,13 @@ Welcome to my Github page! I am Shailin and I am currently finishing my Informat
 - :star2: Marking up the paper of [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320324007349?via%3Dihub)  
   [MSNet: Multi-Scale Network for Object Detection in Remote Sensing Images](https://github.com/ShailinXia/MSNet) 🚀 *coming soon*
 
+#### :scroll: My plan in the furture:
+- :lollipop: Submit my resume at least once a day
+- :pencil2: Do an algorithm everyday
+- :see_no_evil: Prepare the interview
+- ✔️ Check a `Pull Request` at least
+- 🏸 Play Badminton at least once a week
+
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
