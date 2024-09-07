@@ -17,11 +17,13 @@ Welcome to my Github page! I am Shailin and I am currently finishing my Informat
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-157-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-200-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 16.6 kB Used in GitHub's Storage 
  > 
 > 🏆 20 Contributions in the Year 2024
  > 
@@ -29,26 +31,26 @@ Welcome to my Github page! I am Shailin and I am currently finishing my Informat
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-🌆 Daytime                23 commits          ██████████░░░░░░░░░░░░░░░   38.33 % 
-🌃 Evening                24 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+🌞 Morning                12 commits          █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+🌆 Daytime                26 commits          ██████████░░░░░░░░░░░░░░░   41.27 % 
+🌃 Evening                24 commits          ██████████░░░░░░░░░░░░░░░   38.10 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Monday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Thursday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Friday                   14 commits          ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Saturday                 21 commits          █████████░░░░░░░░░░░░░░░░   35.00 % 
-Sunday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Wednesday                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Thursday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Friday                   14 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Saturday                 24 commits          ██████████░░░░░░░░░░░░░░░   38.10 % 
+Sunday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 
 
@@ -67,6 +69,9 @@ GitIgnore file           27 mins             █░░░░░░░░░░�
 🔥 Editors: 
 PyCharm                  5 hrs 54 mins       █████████████░░░░░░░░░░░░   51.86 % 
 VS Code                  5 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.14 % 
+
+💻 Operating System: 
+Windows                  11 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,12 +84,8 @@ Java                     1 repo              ██████░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/ShailinXia/ShailinXia/main/assets/bar_graph.png)
-
-
- Last Updated on 07/09/2024 07:16:40 UTC
+ Last Updated on 07/09/2024 07:34:49 UTC
 <!--END_SECTION:waka-->
 
 #### :computer: Programming languages and tools:
