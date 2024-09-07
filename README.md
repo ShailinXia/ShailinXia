@@ -34,9 +34,13 @@ Here are some ideas to get you started:
 
 ![Shailin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shailinxia&show_icons=true&theme=tokyonight)
 
+#### WakaTime status:
+
+![Shailin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shailin&layout=compact&theme=tokyonight)
+
 #### :computer: Programming languages and tools:
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ShailinXia&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -50,14 +54,6 @@ Here are some ideas to get you started:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
-
-
- ![Shailin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShailinXia)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailinxia&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=ShailinXia&theme=dracula)
-
 
 
 
