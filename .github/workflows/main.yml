@@ -21,5 +21,5 @@ jobs:
           LOCALE: "en"
           SHOW_UPDATED_DATE: "False"
           COMMIT_BY_ME: "True"
-          SECTION_NAME: "Shailin"
+         
           
