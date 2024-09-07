@@ -34,14 +34,15 @@ Here are some ideas to get you started:
 
 ![Shailin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shailinxia&show_icons=true&theme=tokyonight)
 
-#### WakaTime status:
+#### :100: WakaTime status:
 
 ![Shailin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shailin&layout=compact&theme=tokyonight)
 
 #### :computer: Programming languages and tools:
 <p>
+	<!--
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ShailinXia&show_icons=true&hide_border=true" />
-
+	-->
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
