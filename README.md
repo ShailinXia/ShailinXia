@@ -5,7 +5,7 @@
 
 Welcome to my Github page! I am Shailin and I am currently finishing my Information and Communication Engineering Master degree at the Chang'an University, Xi'an, China!  
 
-<img align="right" alt="img" src="cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="cover_image.jpg" width="50%" height="90%" />
 <!--
 **ShailinXia/ShailinXia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,28 +32,25 @@ Here are some ideas to get you started:
 - :star2: Marking up the paper of [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320324007349?via%3Dihub)  
   [MSNet: Multi-Scale Network for Object Detection in Remote Sensing Images](https://github.com/ShailinXia/MSNet) 🚀 *coming soon*
 
-![Shailin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shailinxia&show_icons=true&theme=tokyonight)
-
-#### :100: WakaTime status:
+#### :trophy: WakaTime status:
 
 ![Shailin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shailin&layout=compact&theme=tokyonight)
 
+
 #### :computer: Programming languages and tools:
 <p>
-	<!--
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ShailinXia&show_icons=true&hide_border=true" />
-	-->
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+	<img width="50%" alt="Shailin's GitHub status" align="right" src="https://github-readme-stats.vercel.app/api?username=shailinxia&show_icons=true&theme=tokyonight" /> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/hsbc/hsbc-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 </p>
 
 
