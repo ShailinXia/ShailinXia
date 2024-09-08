@@ -113,4 +113,4 @@ Java                     1 repo              ██████░░░░░�
 </p>
 
 
-[![Shailin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShailinXia&theme=github-compact)](https://github.com/ShailinXia/github-readme-activity-graph)
+[![Shailin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShailinXia&theme=github-compact)](https://github.com/ShailinXia)
