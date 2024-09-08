@@ -26,4 +26,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_EDITORS: "True"
           SHOW_PROJECTS: "True"
-          
+          SHOW_OS: "False"          
