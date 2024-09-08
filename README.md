@@ -92,8 +92,8 @@ Java                     1 repo              ██████░░░░░�
 
 #### :computer: Programming tools and Experiences:
 <p>
-	<!--
-	<img width="47%" alt="Shailin's GitHub status" align="right" src="https://github-readme-stats.vercel.app/api?username=shailinxia&show_icons=true&theme=tokyonight" /> 
+ 	<!--
+	<img height="75%" alt="Shailin's GitHub status" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShailinXia&layout=donut" alt="Top Languages" /> 
 	-->
 	<img  width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShailinXia&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
@@ -111,5 +111,6 @@ Java                     1 repo              ██████░░░░░�
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 </p>
+
 
 [![Shailin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShailinXia&theme=github-compact)](https://github.com/ShailinXia/github-readme-activity-graph)
