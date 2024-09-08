@@ -1,7 +1,20 @@
-## Hi everyone👋
-## This is Shailin's programming world :earth_americas:
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ShailinXia)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shailinxia666@gmail.com)
+<div style="text-align: center;">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Lucida+Handwriting&size=35&pause=1000&color=36F7EA&center=true&width=1000&height=50&lines=Welcome+to+Shailin's+World!" alt="Typing SVG" />
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/ShailinXia">
+        <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:shailinxia666@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
+    </a>
+</div>
+
+---
 
 <img src="cover_image.jpg" />
 
