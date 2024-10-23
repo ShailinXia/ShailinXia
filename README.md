@@ -41,12 +41,48 @@ Welcome to my Github page! I'm currently finishing my Information and Communicat
 
 > 📦 35.6 kB Used in GitHub's Storage 
  > 
+> 🏆 290 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+🌆 Daytime                59 commits          ████████░░░░░░░░░░░░░░░░░   33.52 % 
+🌃 Evening                48 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+🌙 Night                  47 commits          ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Wednesday                33 commits          █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Thursday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Saturday                 44 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Sunday                   34 commits          █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
