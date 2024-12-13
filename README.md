@@ -94,7 +94,7 @@ James Paper              1 hr 33 mins        ███████████�
 	<img  width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShailinXia&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 	-->
 	<a href="https://git.io/streak-stats">
-		<img width="50%" align="right" src="https://streak-stats.demolab.com?user=ShailinXia&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+		<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ShailinXia&theme=git-dark&hide_border=true" alt="GitHub Streak" />
 	</a>
 	<code><img width="12%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 	<code><img width="12%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
