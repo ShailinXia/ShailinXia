@@ -98,17 +98,17 @@ James Paper              1 hr 33 mins        ███████████�
 	<a href="https://git.io/streak-stats"><img width="50%" align="right" src="https://streak-stats.demolab.com?user=ShailinXia&theme=git-dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a> 
 	-->
  	<a href="https://git.io/streak-stats"><img width="51%" align="right" src="https://streak-stats.demolab.com?user=ShailinXia&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" /></a>
-	<code><img width="12%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-	<code><img width="12%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-	<code><img width="12%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png"></code>
+	<code><img width="13%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+	<code><img width="13%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+	<code><img width="13%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png"></code>
 	<br />
-	<code><img width="12%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-	<code><img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-	<code><img width="12%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+	<code><img width="13%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+	<code><img width="13%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+	<code><img width="13%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 	<br />
-	<code><img width="12%" src="https://www.vectorlogo.zone/logos/hsbc/hsbc-ar21.svg"></code>
-	<code><img width="12%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
-	<code><img width="12%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+	<code><img width="13%" src="https://www.vectorlogo.zone/logos/hsbc/hsbc-ar21.svg"></code>
+	<code><img width="13%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+	<code><img width="13%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 </p>
 
 
