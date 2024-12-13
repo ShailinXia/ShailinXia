@@ -96,7 +96,7 @@ James Paper              1 hr 33 mins        ███████████�
 	<!-- 	
 	<a href="https://git.io/streak-stats"><img width="50%" align="right" src="https://streak-stats.demolab.com?user=ShailinXia&theme=git-dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a> 
 	-->
- 	<a href="https://git.io/streak-stats"><img width="55%" align="right" src="https://streak-stats.demolab.com?user=ShailinXia&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" /></a>
+ 	<a href="https://git.io/streak-stats"><img width="51%" align="right" src="https://streak-stats.demolab.com?user=ShailinXia&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" /></a>
 	<code><img width="12%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 	<code><img width="12%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 	<code><img width="12%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png"></code>
