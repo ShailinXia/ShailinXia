@@ -33,7 +33,7 @@ Welcome to my Github page! I'm currently pursuing my Information and Communicati
 #### :scroll: My plan in the furture:
 - :lollipop: Learn English every day
 - :pencil2: Write academic paper 
-- :see_no_evil: Grasp new programming skill
+- :see_no_evil: Grasp new programming skills
 - ✔️ Check a `Pull Request` at least
 - 🏸 Keep fit at any time
 
