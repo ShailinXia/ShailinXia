@@ -93,7 +93,7 @@ James Paper              1 hr 33 mins        ███████████�
 	<img height="75%" alt="Shailin's GitHub status" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShailinXia&layout=donut" alt="Top Languages" /> 
 	<img  width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShailinXia&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 	-->
-	<a href="https://git.io/streak-stats"><img width="50%" align="right" src="https://streak-stats.demolab.com?user=ShailinXia&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" /></a>
+	<a href="https://git.io/streak-stats"><img width="50%" align="right" src="https://streak-stats.demolab.com?user=ShailinXia&theme=hacker&hide_border=true" alt="GitHub Streak" /></a>
 	<code><img width="12%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 	<code><img width="12%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 	<code><img width="12%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png"></code>
