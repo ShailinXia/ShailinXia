@@ -38,11 +38,13 @@ Welcome to my Github page! I'm currently pursuing my Information and Communicati
 - 🏸 Keep fit at any time
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%207%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 207 Contributions in the Year 2026
+> 🏆 208 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,6 +52,46 @@ Welcome to my Github page! I'm currently pursuing my Information and Communicati
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+🌆 Daytime                272 commits         ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+🌃 Evening                120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+🌙 Night                  748 commits         ████████████████░░░░░░░░░   62.44 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Tuesday                  133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Wednesday                142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Thursday                 190 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Friday                   241 commits         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Saturday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Sunday                   159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
