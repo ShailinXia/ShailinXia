@@ -44,7 +44,7 @@ Welcome to my Github page! I'm currently pursuing my Information and Communicati
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 300 Contributions in the Year 2026
+> 🏆 301 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,20 +56,20 @@ Welcome to my Github page! I'm currently pursuing my Information and Communicati
 
 ```text
 🌞 Morning                62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-🌆 Daytime                272 commits         █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-🌃 Evening                120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-🌙 Night                  835 commits         ████████████████░░░░░░░░░   64.78 % 
+🌆 Daytime                272 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+🌃 Evening                120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+🌙 Night                  836 commits         ████████████████░░░░░░░░░   64.81 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   191 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Tuesday                  145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Monday                   191 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Tuesday                  145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
 Wednesday                155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Thursday                 204 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Friday                   254 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-Saturday                 168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Sunday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Thursday                 204 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Friday                   254 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Saturday                 169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Sunday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 ```
 
 
